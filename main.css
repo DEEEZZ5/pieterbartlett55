@@ -1,7 +1,7 @@
 body {
   font-family: 'Share Tech', sans-serif;
   font-size: 16px;
-  color: rgb(0, 0, 0);
+  color: rgb(241, 99, 99);
   display: flex;
   justify-content: right;
   align-items:left;
@@ -67,11 +67,11 @@ h1 {
 .center{
   margin: 0;
   position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%, 50%);
-  transform: translate(-50%,
-    50%);
+  top: 60%;
+  left: 10%;
+  -ms-transform: translate(-60%, 10%);
+  transform: translate(-60%,
+    10%);
 }
 
 .container2 {
@@ -85,10 +85,10 @@ h1 {
   margin: 0;
   position: absolute;
   top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%, 50%);
+  left: 10%;
+  -ms-transform: translate(-50%, 10%);
   transform: translate(-50%,
-      50%);
+      10%);
 }
 
 .container3 {
@@ -101,9 +101,9 @@ h1 {
 .center3 {
   margin: 0;
   position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%, 50%);
-  transform: translate(-50%,
-      50%);
+  top: 40%;
+  left: 10%;
+  -ms-transform: translate(-40%, 10%);
+  transform: translate(-40%,
+      10%);
 }
