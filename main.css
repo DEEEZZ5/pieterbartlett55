@@ -1,10 +1,10 @@
 body {
   font-family: 'Share Tech', sans-serif;
   font-size: 16px;
-  color: white;
+  color: rgb(0, 0, 0);
   display: flex;
   justify-content: right;
-  align-items:right;
+  align-items:left;
   margin: 0;
   width: 50vw;
   height: 50vh;
@@ -41,7 +41,7 @@ h1 {
     color: rgb(27, 19, 9);
     border: 2px;
     text-shadow: 8px 8px 10px #0000008c;
-    margin: 5px;
+    margin: 0px;
 
   }
 
