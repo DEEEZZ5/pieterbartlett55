@@ -1,7 +1,7 @@
 body {
   font-family: 'Share Tech', sans-serif;
   font-size: 16px;
-  color: rgb(241, 99, 99);
+  color: rgb(0, 0, 0);
   display: flex;
   justify-content: right;
   align-items:left;
@@ -19,7 +19,7 @@ h1 {
 .contact{
   font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
   font-size: 16px;
-  text-shadow: 8px 8px 10px;
+  text-shadow: 8px 8px 10px black;
   color: rgb(248,223,112);
   border: 3px;
   height: 40px;
@@ -58,52 +58,50 @@ h1 {
   }
 
 .container{
-  height: 40px;
-  width: 60px;
-  position: relative;
-  
-}
+    position: relative;
+    width: 400px;
+    height: 200px;
+    border: 3px solid #73AD21;
+  }
 
 .center{
-  margin: 0;
-  position: absolute;
-  top: 60%;
-  left: 10%;
-  -ms-transform: translate(-60%, 10%);
-  transform: translate(-60%,
-    10%);
-}
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+  }
 
 .container2 {
-  height: 40px;
-  width: 60px;
-  position: relative;
-
-}
+    position: relative;
+    width: 400px;
+    height: 200px;
+    border: 3px solid #73AD21;
+  }
 
 .center2 {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 10%;
-  -ms-transform: translate(-50%, 10%);
-  transform: translate(-50%,
-      10%);
-}
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+  }
 
 .container3 {
-  height: 40px;
-  width: 60px;
-  position: relative;
-
-}
+    position: relative;
+    width: 400px;
+    height: 200px;
+    border: 3px solid #73AD21;
+  }
 
 .center3 {
-  margin: 0;
-  position: absolute;
-  top: 40%;
-  left: 10%;
-  -ms-transform: translate(-40%, 10%);
-  transform: translate(-40%,
-      10%);
-}
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+  }
+
