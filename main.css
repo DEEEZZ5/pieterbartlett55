@@ -10,7 +10,7 @@ body {
   height: 50vh;
   text-shadow: 8px 8px 10px #aaa5a58c;
   background-color: #527a99;
-  background-image: url("https: //www.google.com/url?sa=i&url=https%3A%2F%2Fhtmlcolorcodes.com%2Ftutorials%2Fcss-background-color%2F&psig=AOvVaw2Uzi3055MFE_2NpD7aV1Ab&ust=1664014282916000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKi57LbWqvoCFQAAAAAdAAAAABAI"), linear-gradient(to right top, #343a40, #2b2c31, #211f22, #151314, #000000);
+  background-image: url("https: //www.google.com/url?sa=i&url=https%3A%2F%2Fhtmlcolorcodes.com%2Ftutorials%2Fcss-background-color%2F&psig=AOvVaw2Uzi3055MFE_2NpD7aV1Ab&ust=1664014282916000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKi57LbWqvoCFQAAAAAdAAAAABAI"), 
 }
 
 h1 {
