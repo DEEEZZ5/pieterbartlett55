@@ -9,7 +9,6 @@ body {
   width: 50vw;
   height: 50vh;
   text-shadow: 8px 8px 10px #aaa5a58c;
-  background-color: #527a99;
   background-image: url("https: //www.google.com/url?sa=i&url=https%3A%2F%2Fhtmlcolorcodes.com%2Ftutorials%2Fcss-background-color%2F&psig=AOvVaw2Uzi3055MFE_2NpD7aV1Ab&ust=1664014282916000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKi57LbWqvoCFQAAAAAdAAAAABAI"), 
 }
 
@@ -20,8 +19,9 @@ h1 {
   font-family: 'Share Tech', sans-serif;
   font-size: 16px;
   color: rgb(19, 13, 6);
-  border: none;
+  border: 2px;
   text-shadow: 8px 8px 10px #aaa5a58c;
+  margin: 5px;
   
 }
 
@@ -29,8 +29,9 @@ h1 {
     font-family: 'Share Tech', sans-serif;
     font-size: 16px;
     color: rgb(26, 18, 8);
-    border: none;
+    border: 2px ;
     text-shadow: 8px 8px 10px #aaa5a58c;
+    margin: 5px;
 
   }
 
@@ -38,8 +39,9 @@ h1 {
     font-family: 'Share Tech', sans-serif;
     font-size: 16px;
     color: rgb(27, 19, 9);
-    border: none;
+    border: 2px;
     text-shadow: 8px 8px 10px #aaa5a58c;
+    margin: 5px;
 
   }
 
