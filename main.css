@@ -34,8 +34,6 @@ h1 {
 
   .container{
     position: relative;
-    width: 400px;
-    height: 200px;
 
   }
 
@@ -43,8 +41,6 @@ h1 {
     position: absolute;
     top: 0;
     right: 0;
-    width: 200px;
-    height: 100px;
   }
 
 .about{
@@ -63,17 +59,12 @@ h1 {
 
   .container2 {
     position: relative;
-    width: 400px;
-    height: 200px;
   }
 
 .center2 {
     position: absolute;
     top: 0;
     right: 0;
-    width: 200px;
-    height: 100px;
-    
   }
 
 .coffee{
@@ -100,9 +91,7 @@ h1 {
     position: absolute;
     top:0;
     right: 0;
-    width: 200px;
-    height: 100px;
-  }
+}
 
 
 
