@@ -1,4 +1,4 @@
-.background{
+.body{
   background-color: black;
   background-image: url('DEEEZZ5/pieterbartlett55/pexels-sabina-kallari-13161994.jpg');
 }
@@ -10,17 +10,17 @@
 .contact {
   
   color: rgb(9, 255, 0);
-  background-color: blue;
+  background-color: tomato;
   border-radius: 20px;
 }
 .about {
   color: rgb(94, 255, 0);
-  background-color: blue;
+  background-color:tomato;
   border-radius: 20px;
 }
 .coffee {
   color: rgb(72, 255, 0);
-  background-color: blue;
+  background-color: tomato;
   border-radius: 20px;
 }
 
