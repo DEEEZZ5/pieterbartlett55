@@ -44,7 +44,7 @@ h1 {
     display: flex;
     flex-wrap: wrap;
     align-content: center;
-
+}
 .about{
     background-color:rgb(255, 255, 0);
       /* Green */
