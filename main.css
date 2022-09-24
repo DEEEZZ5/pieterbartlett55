@@ -38,10 +38,12 @@ h1 {
   }
 
 .center{
-    position: absolute;
-    top: 0;
-    right: 0;
-  }
+    width: 70px;
+    height: 300px;
+    border: 1px solid #c3c3c3;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
 
 .about{
     background-color:rgb(255, 255, 0);
