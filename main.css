@@ -1,5 +1,5 @@
 .background{
-  color: black;
+  background-color: black;
 }
 
 .container {
@@ -7,6 +7,7 @@
   }
 
 .contact {
+  
   color: rgb(255, 255, 255);
   background-color: blue;
   border-radius: 20px;
@@ -20,4 +21,9 @@
   color: rgb(255, 255, 255);
   background-color: blue;
   border-radius: 20px;
+}
+
+.h1{
+  color: gray;
+  text-align: center;
 }
