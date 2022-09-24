@@ -1,19 +1,23 @@
-body {
-  font-family: 'Share Tech', sans-serif;
-  font-size: 16px;
-  color: rgb(0, 0, 0);
-  display: flex;
-  justify-content: right;
-  align-items:left;
-  margin: 0;
-  width: 50vw;
-  height: 50vh;
-  text-shadow: 8px 8px 10px #0000008c;
-  background-image: url('github.jpg');
-  background-repeat: no-repeat;
+.background{
+  color: black;
 }
 
 .container {
     flex-flow: space-between ;
   }
 
+.contact {
+  color: rgb(255, 255, 255);
+  background-color: blue;
+  border-radius: 20px;
+}
+.about {
+  color: rgb(255, 255, 255);
+  background-color: blue;
+  border-radius: 20px;
+}
+.coffee {
+  color: rgb(255, 255, 255);
+  background-color: blue;
+  border-radius: 20px;
+}
